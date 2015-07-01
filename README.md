@@ -1,9 +1,3 @@
-[![Travis](http://img.shields.io/travis/csgf/scoap3-harvester-api/master.png)](https://travis-ci.org/csgf/scoap3-harvester-api)
-[![Documentation Status](https://readthedocs.org/projects/csgf/badge/?version=latest)](http://csgf.readthedocs.org)
-[![License](https://img.shields.io/github/license/csgf/scoap3-harvester-api.svg?style?flat)](http://www.apache.org/licenses/LICENSE-2.0.txt)
-
-
-
 
 /** The MIT License (MIT)
 *
